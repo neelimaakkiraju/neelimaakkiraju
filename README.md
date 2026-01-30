@@ -8,6 +8,10 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ### 🚀 About Me
+- Build responsive, user-centric web applications with **React** and **Next.js**
+- Implement clean, maintainable code following industry best practices
+- Explore AI-powered development workflows to enhance productivity
+- Continuously learning and adapting to new technologies
 
 <table>
 <tr><td>
