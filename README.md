@@ -1,44 +1,63 @@
-# Hi 👋, I'm Neelima
+<h1 align="center">Hi 👋, I'm Neelima Akkiraju</h1>
+<h3 align="center">Frontend Developer | React & Next.js Specialist | AI-Assisted Development Enthusiast</h3>
 
-### Frontend Developer | React & Next.js Specialist | AI-Assisted Development
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=neelimaakkiraju&label=Profile views&color=0e75b6&style=flat" alt="neelimaakkiraju" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neelimaakkiraju" alt="neelimaakkiraju" /></a> </p>
-
-- 🔭 I'm currently working on **- Building an enterprise CRM platform at **Techenhance** using Next.js 14, TypeScript, and GraphQL
-- Developing an **AI-Powered Code Review Assistant** VS Code extension**
-
-- 🌱 I'm currently learning **- Advanced Server Components and Server Actions in Next.js 14
-- Prompt Engineering techniques for optimizing AI-assisted development workflows**
-
-- 👯 I'm looking to collaborate on **- Open-source React component libraries with focus on accessibility (WCAG 2.1 AA)
-- AI-powered developer tools that enhance productivity and code quality**
-
-- 🤝 I'm looking for help with **- Advanced GraphQL optimization strategies for large-scale applications
-- Scaling AI-assisted development workflows across distributed teams**
-
-- 💬 Ask me about **- AI-assisted development with GitHub Copilot, Cursor AI, and Claude API
-- Next.js 14 SSR/SSG optimization and best practices
-- React performance optimization and Core Web Vitals improvements**
-
-- 📫 How to reach me **neelimaakkiraju2001@gmail.com**
-
-- ⚡ Fun fact **I've accelerated development velocity by 40% using AI-assisted workflows and reduced boilerplate code writing by 60% through custom AI prompts. I'm also a huge advocate for using LLMs**
-
-- 👨‍💻 All of my projects are available at **[https://neelima-portfolio-website.netlify.app/](https://neelima-portfolio-website.netlify.app/)**
-
-- 📝 I regularly write articles on **[https://neelima-portfolio-website.netlify.app/](https://neelima-portfolio-website.netlify.app/)**
-
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1cATQ0kpk2WBRIoz7zp3zdH-GE8NVnVbc/view?usp=drive_link](https://drive.google.com/file/d/1cATQ0kpk2WBRIoz7zp3zdH-GE8NVnVbc/view?usp=drive_link)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/neelimaakkiraju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="neelimaakkiraju" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/akkirajuneelima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akkirajuneelima" height="30" width="40" /></a>
-<a href="https://twitter.com/akkirajuneelima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akkirajuneelima" height="30" width="40" /></a>
-<a href="https://leetcode.com/akkiraju2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akkiraju2001" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+### 🚀 About Me
+
+<table>
+<tr><td>
+
+#### 🔭 Currently Working On
+- Building enterprise **CRM platform** at **Techenhance**
+  - Tech Stack: Next.js 14, TypeScript, GraphQL
+- Developing **AI-Powered Code Review Assistant**
+  - VS Code extension with Claude API integration
+  - 200+ installs, 4.8/5.0 rating
+
+#### 🌱 Currently Learning
+- Advanced **Server Components** in Next.js 14
+- **Prompt Engineering** for AI workflows
+- **GraphQL optimization** for large-scale apps
+
+#### 👯 Open to Collaborate On
+- 🎨 Open-source React component libraries
+- 🤖 AI-powered developer productivity tools
+- ♿ Accessibility-focused projects (WCAG 2.1 AA)
+- ⚡ Performance optimization initiatives
+
+</td></tr>
+<tr><td>
+
+#### 💬 Ask Me About
+```typescript
+const expertise = {
+  aiDevelopment: ['GitHub Copilot', 'Cursor AI', 'Claude API'],
+  nextjs: ['SSR/SSG', 'Server Components', 'App Router'],
+  performance: ['Core Web Vitals', 'Bundle Optimization'],
+  accessibility: ['WCAG 2.1', 'Screen Readers', 'ARIA'],
+  react: ['Custom Hooks', 'State Management', 'TypeScript']
+};
+```
+
+#### 📫 Connect With Me
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neelimaakkiraju2001@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://neelima-portfolio-website.netlify.app/)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1cATQ0kpk2WBRIoz7zp3zdH-GE8NVnVbc/view?usp=drive_link)
+
+#### ⚡ Fun Fact
+> I've accelerated development velocity by **40%** using AI-assisted workflows and reduced boilerplate code writing by **60%** through custom AI prompts. I'm a huge advocate for using LLMs not just for code generation, but for architectural decisions and comprehensive test suite creation!
+
+</td></tr>
+</table>
+
+
+
+
 
 ## 🛠️ Technical Skills
 
@@ -53,9 +72,5 @@
 | **☁️ DevOps & Deploy** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 | **🔧 Dev Tools** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white) ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neelimaakkiraju&show_icons=true&locale=en&layout=compact" alt="neelimaakkiraju" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neelimaakkiraju&show_icons=true&locale=en" alt="neelimaakkiraju" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neelimaakkiraju&" alt="neelimaakkiraju" /></p>
 
